@@ -6,6 +6,7 @@ Hi, I'm currently at UQAM finishing a bachelors degree in computer science speci
     -
     - Hack the box CTF
     - Volvo canbus hacking
+    - Raspberry Pi car headunit
 
 - <img src="isolatedbrain.svg" alt="drawing" width="35"/> I’m currently learning ...
     -
