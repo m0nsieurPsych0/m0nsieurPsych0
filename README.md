@@ -11,6 +11,7 @@ Hi, I'm currently at UQAM finishing a bachelors degree in computer science speci
 - <img src="isolatedbrain.svg" alt="drawing" width="35"/> I’m currently learning ...
     -
     - CI/CD implementation
+    - Perl
 
 - <img src="isolatedbrain.svg" alt="drawing" width="35"/> I’m looking to collaborate on ...
     -
